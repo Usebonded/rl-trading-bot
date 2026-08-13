@@ -4,3 +4,4 @@ pandas
 numpy 
 plotly 
 stable-baselines3 
+alpaca-py 
